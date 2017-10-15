@@ -16,6 +16,7 @@
     "test": "istanbul cover node_modules/mocha/bin/_mocha tests/*.test.js"
   },
   "dependencies": {
+    "jquery": "^3.2.1",
     "moment-timezone": "^0.5.13"
   },
   "devDependencies": {
